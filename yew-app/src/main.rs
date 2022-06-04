@@ -1,4 +1,5 @@
 use yew::prelude::*;
+use yew::{classes, html};
 
 #[function_component(App)]
 fn app() -> Html { 
@@ -16,6 +17,7 @@ fn app() -> Html {
     html! {
         <div>
             {combined_html}
+            <div class={classes!("container")}></div>
             <div data-key="abc"></div>
             <div class="parent">
                 <span class="child" value="anything"></span>
