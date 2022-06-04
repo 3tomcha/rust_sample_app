@@ -2,8 +2,13 @@ use yew::prelude::*;
 
 #[function_component(App)]
 fn app() -> Html { 
+    let header_text = "HelloWorld".to_string();
+    let header_html: Html = html! {
+        <h1>{header_text}</h1>
+    };
     html! {
         <div>
+            {header_html}
             <div data-key="abc"></div>
             <div class="parent">
                 <span class="child" value="anything"></span>
