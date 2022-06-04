@@ -1,0 +1,10 @@
+/Users/kobayashitomoya/rust_sample_app/yew-app/target/wasm32-unknown-unknown/debug/deps/gloo_storage-463bc30337652fde.rmeta: /Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/lib.rs /Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/errors.rs /Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/local_storage.rs /Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/session_storage.rs
+
+/Users/kobayashitomoya/rust_sample_app/yew-app/target/wasm32-unknown-unknown/debug/deps/libgloo_storage-463bc30337652fde.rlib: /Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/lib.rs /Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/errors.rs /Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/local_storage.rs /Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/session_storage.rs
+
+/Users/kobayashitomoya/rust_sample_app/yew-app/target/wasm32-unknown-unknown/debug/deps/gloo_storage-463bc30337652fde.d: /Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/lib.rs /Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/errors.rs /Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/local_storage.rs /Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/session_storage.rs
+
+/Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/lib.rs:
+/Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/errors.rs:
+/Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/local_storage.rs:
+/Users/kobayashitomoya/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.1/src/session_storage.rs:
