@@ -6,9 +6,16 @@ fn app() -> Html {
     let header_html: Html = html! {
         <h1>{header_text}</h1>
     };
+    let count: usize = 5;
+    let counter_html: Html = html! {
+        <p>{"My age is "}{count}</p>
+    };
+    let combined_html: Html = html! {
+        <div>{header_html}{counter_html}</div>
+    };
     html! {
         <div>
-            {header_html}
+            {combined_html}
             <div data-key="abc"></div>
             <div class="parent">
                 <span class="child" value="anything"></span>
