@@ -1,8 +1,14 @@
 use yew::prelude::*;
 use yew::{classes, html};
+use wasm_bindgen::UnwrapThrowExt;
+use web_sys::window;
 
 #[function_component(App)]
 fn app() -> Html { 
+    let document = window()
+                    .expect_throw("window is undefined")
+                    .document()
+                    .expect_throw("document is undefined");
     let header_text = "HelloWorld".to_string();
     let header_html: Html = html! {
         <h1>{header_text}</h1>
